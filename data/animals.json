@@ -117,6 +117,17 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Hoffman",
+      "species": "Lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
